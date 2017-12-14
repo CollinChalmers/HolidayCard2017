@@ -24,13 +24,13 @@ void setup(){
 
 b.drawBackground();
 
-man = loadImage("man.png");
+man = loadImage("data/man.png");
 man.resize(200,200);
-santa = loadImage("santa2.png");
+santa = loadImage("data/santa2.png");
 santa.resize(250,150);
-wreath = loadImage("wreath.png");
+wreath = loadImage("data/wreath.png");
 wreath.resize(75,75);
-gift = loadImage("gift.png");
+gift = loadImage("data/gift.png");
 gift.resize(35,35);
 
 
